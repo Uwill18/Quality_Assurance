@@ -8,8 +8,32 @@ https://srm--c.vf.force.com/apex/CourseArticle?id=kA03x000000YriJCAS&groupId=&se
 
 3 pages of the definitions
 CMMI
-LinkedIn
-Take Preassessment
+LinkedIn x
+Take Preassessment x
 Refactor for most effective resources
+definitions -- 8 pages/day * 2
+review preassesment * 2
+[3,13,14] -- cmmi *3
+[test quiz] * 3
+quizsail * 2
+LinkedIn one last time
+
+
+
+	subflow
+	8 pages of definitions
+	test quiz
+	read cmmi section
+	review preassessment
+
+	{Intro to AI}
+
+	quizsail part 1, 30 questions
+	some linkedin
+	quizsail part 2, 30 questions
+
+
+
+
 Take OA
 
