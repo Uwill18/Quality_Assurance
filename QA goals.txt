@@ -23,7 +23,7 @@ LinkedIn one last time
 	subflow
 	8 pages of definitions x
 	test quiz x
-	read cmmi section
+	read cmmi sectionxx
 	review preassessment
 
 	{Intro to AI}
